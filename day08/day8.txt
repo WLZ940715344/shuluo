@@ -42,4 +42,6 @@
 
   4.NodeJs没有根目录
     02_root.html
-    02_root.js
+    02_root.
+    暴露对象
+    
